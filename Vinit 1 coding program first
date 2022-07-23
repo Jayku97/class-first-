@@ -1,0 +1,5 @@
+Print('hello world')
+Print ('coders)
+Name ='vinit'
+Age=18
+Print {"('namr' 'Age')"}
